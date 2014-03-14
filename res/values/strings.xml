@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BTtest</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="on">Bluetooth On</string>
+    <string name="off">Bluetooth Off</string>
+    
+	<string name="chat">Chat</string>
+	<string name="scan">Scan for devices</string>
+	<string name="send">Send</string>
+	
+	<string name="ok">OK</string>
+	
+</resources>
